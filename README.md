@@ -55,21 +55,12 @@
 
 <hr />
 
-<!-- TARJETAS Y ESTADÍSTICAS (TEMA DRACULA) -->
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JCGuerreroM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGuerreroM&layout=compact&theme=dracula"/>
-</div>
-
-<br />
 
 <!-- TARJETA ESTILO STEAM -->
 ## 🎮 Steam Profile Card
 
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199172467401/">
-    <img src="https://steam-embed.vercel.app/76561199172467401" alt="Steam Profile" />
+  <a href="https://steamcommunity.com/profiles/76561199172467401/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-JCGuerreroM-1b2838?style=for-the-badge&logo=steam&logoColor=white&colorA=171a21" alt="Steam Profile" />
   </a>
 </div>
