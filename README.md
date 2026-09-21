@@ -57,7 +57,7 @@
 
 
 <!-- TARJETA ESTILO STEAM -->
-## 🎮 Steam Profile Card
+##  Steam Profile Card
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199172467401/" target="_blank">
