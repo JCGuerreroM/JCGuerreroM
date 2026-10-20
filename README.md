@@ -5,7 +5,7 @@
 
   <p>
     📍 <b>Garzón, Huila, Colombia</b><br>
-    🌱 Apasionado por el desarrollo web, el diseño de interfaces y la analítica de datos aplicada a hardware.
+    🌱 Apasionado por el desarrollo web y aspirante a ingeniero de datos.
   </p>
 
   <!-- BADGES DE CONTACTO -->
@@ -30,8 +30,7 @@
 
 - 🎓 Actualmente cursando el tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el **SENA**.
 - 🚀 Enfocado en dominar a la perfección JavaScript, Node.js y MySQL.
-- 🎯 Mi siguiente gran objetivo técnico es aprender **C++**.
-- 🤖 Gran entusiasta y usuario diario de herramientas de **Inteligencia Artificial** aplicada al desarrollo.
+- 🎯 Mi siguiente gran objetivo técnico es aprender **C++, SQL, PYTHON, JAVA, ...**.
 
 <hr />
 
