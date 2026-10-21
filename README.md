@@ -1,6 +1,6 @@
 <!-- HEADER / PRESENTACIÓN -->
 <div align="center">
-  <h1>👋 Hola, PERROOR COMMOK ESTA TANB</h1>
+  <h1>👋 Hola, soy JUAN CARLOS GUERRERERO MENDEZ</h1>
   <h3>Junior Software Developer | Estudiante ADSO en el SENA</h3>
 
   <p>
